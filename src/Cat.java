@@ -5,6 +5,7 @@ public class Cat implements CapableOfRunning, Jumpable{
 
 
     @Override
+
     public String toString()
     {
         return "Cat";
